@@ -1,3 +1,3 @@
-# test
+# dolibarr-custom-theme
 
 readme edit
